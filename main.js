@@ -16,6 +16,8 @@ document.body.appendChild(div);
 
 div.className = importACss["footerContent"];
 
+import "./index.module.less";
+
 // console.log("count", count);
 
 console.log("import.meta.env:", import.meta.env);
