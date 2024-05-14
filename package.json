@@ -13,6 +13,11 @@
   "dependencies": {
     "less": "^4.2.0",
     "lodash": "^4.17.21",
+    "postcss-preset-env": "^9.5.12",
     "vite": "^5.2.11"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.38",
+    "postcss-cli": "^11.0.0"
   }
 }
